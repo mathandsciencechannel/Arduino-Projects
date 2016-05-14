@@ -1,0 +1,10 @@
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe.config
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\bin\Debug\Arduino Control.pdb
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Properties.Resources.resources
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.GenerateResource.Cache
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino Control.exe
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino Control.pdb
+C:\Users\justin0502\documents\visual studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csprojResolveAssemblyReference.cache
+C:\Users\justin0502\Documents\Visual Studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Main.resources
+C:\Users\justin0502\Documents\Visual Studio 2015\Projects\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.RCCarControl.resources
